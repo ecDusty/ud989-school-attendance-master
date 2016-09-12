@@ -124,7 +124,6 @@ model = {
   createInfo: function(t) {
 
 
-
   },
 
   init: function() {
